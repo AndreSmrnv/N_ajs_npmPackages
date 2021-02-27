@@ -1,0 +1,19 @@
+{
+  "name": "@andresmrnv/n_ajs_npmpackages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreSmrnv/N_ajs_npmPackages.git"
+  },
+  "author": "AndreSmrnv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreSmrnv/N_ajs_npmPackages/issues"
+  },
+  "homepage": "https://github.com/AndreSmrnv/N_ajs_npmPackages#readme"
+}
